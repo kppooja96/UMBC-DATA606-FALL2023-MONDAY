@@ -33,16 +33,16 @@ Bachelor of Technology in Computer Science and Engineering (CGPA: 9.16/10.00)
 
 ## Work Experience
 
-* Machine Learning Engineer (Intern) | Cadence Design Systems   Jun 2023- Present
+* Machine Learning Engineer (Intern) | Cadence Design Systems, Jun 2023- Present
     * Implemented chatbot using LLM generative AI models (GenAI). Worked on creating a private secure model on the company’s custom data and fine-tuned it. 
     * Coded the project in python using Pytorch, Tensorflow, Peft & QLoRA
     * Hosted the application on hugging face gradio API.
 
-* Senior Data Engineer | Cognizant technology solutions Jul 2021- Dec 2021
+* Senior Data Engineer | Cognizant technology solutions, Jul 2021- Dec 2021
     * Involved in data processing and migrating 120GB of Salesforce data to an AWS database in order to devise key customer insights that drove a profit of $10M for the company. Additionally, assisted clients in receiving push notifications for CRUD operations on Dynamodb by utilizing SNS, SQS, API-Gateway, APP-Sync.
     * Built 4 CloudFormation templates, shifted the entire project from development to production and maintained it.
 
-* Data Engineer | TekSystems Global Services                             May 2018 - Jun 2021
+* Data Engineer | TekSystems Global Services, May 2018 - Jun 2021
     * Bobcat: NIFI | MongoDB | Python | Groovy
         * Implemented a flow in NIFI using pipelines to push 1000's requests in a single second, dump, and retrieve data from MongoDB. 
         * Problem solving skill was applied to create a customized putMongo processor to clear any loopholes.
@@ -61,19 +61,19 @@ Bachelor of Technology in Computer Science and Engineering (CGPA: 9.16/10.00)
 
 ## Projects
 
-* Social Bias Indicator: Python | NLP | GPT-2 | EDA 
+* [Social Bias Indicator](https://github.com/kppooja96/Social_bias_indicator): Python | NLP | GPT-2 | EDA 
     * Collaborated with my team to build social bias indicator on 24k unique posts data with a combination of biased and unbiased content which indicates the social frames targeted by the posts with an 85% accuracy using GPT-2 model.
     * Performed data visualization, analysis and applied topic modeling using Word2Vec which resulted in a biased answer as the dataset contains biased posts making the model performance bad.
-* Empirical Research on CAPM, Markowitz’s portfolio and Time Series using LSTM: Python | Financial DataScience
+* [Empirical Research on CAPM, Markowitz’s portfolio and Time Series using LSTM](https://github.com/kppooja96/CAPM_Markowitz): Python | Financial DataScience
     * Calculated the risk involved in the stock’s investment using CAPM on total of 9 stocks with 90% accuracy.
     * Applied Markowitz’s portfolio analysis to check the portfolio performance which showed 33% returns over/year.
     * Predicted time-series stock data using LSTM with 93% accuracy.
-* Drug Review Sentiment Analysis: PySpark | Random Forest (Machine Learning) | NLP (TextBlob)
+* [Drug Review Sentiment Analysis](https://github.com/kppooja96/Drug-Analysis): PySpark | Random Forest (Machine Learning) | NLP (TextBlob)
     * Implemented a model to analyze the sentiment on the drug review dataset using TextBlob to fetch the sentiment in numbers and used the rest of the data to rate the drug using Random Forest which worked well with 91% accuracy
     * Built end-to-end hosting of the application on the GCP platform using these 4 services: dataproc, cloudfunctions, cloud storage and pub/sub.
-* Image Segmentation: Python | Deep Learning 
+* [Image Segmentation](https://github.com/kppooja96/CityScape): Python | Deep Learning 
     * Applied YOLO and PSP-Net algorithms to segment objects on 15GB CityScape dataset with an accuracy of 85% and 70% respectively.
-* Crime vs Education rate Relationship: Python | Machine Learning | T-Test
+* [Crime vs Education rate Relationship](https://github.com/kppooja96/Statistical-analysis-on-LiteracyRate-vs-CrimeRate): Python | Machine Learning | T-Test
     * Designed and implemented a T-test model which checks the effect of crime rate on literacy rate. With an assumption of the following threshold: total crimes > 10,000 as "High crime rate" and Literacy rate (%) > 70% as "Highly Educated" Predicted Model shows - yes crime rate does depend on literacy rate
  
 ## Certifications
