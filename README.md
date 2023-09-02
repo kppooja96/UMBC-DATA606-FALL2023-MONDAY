@@ -75,6 +75,11 @@ Bachelor of Technology in Computer Science and Engineering (CGPA: 9.16/10.00)
     * Applied YOLO and PSP-Net algorithms to segment objects on 15GB CityScape dataset with an accuracy of 85% and 70% respectively.
 * Crime vs Education rate Relationship: Python | Machine Learning | T-Test
     * Designed and implemented a T-test model which checks the effect of crime rate on literacy rate. With an assumption of the following threshold: total crimes > 10,000 as "High crime rate" and Literacy rate (%) > 70% as "Highly Educated" Predicted Model shows - yes crime rate does depend on literacy rate
+ 
+## Certifications
+
+* [Specialization in Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/66APEJ652YN2)
+* [SQL HackerRank](https://www.hackerrank.com/certificates/e823d6fd57e0)
 
 ## Achievements
 
