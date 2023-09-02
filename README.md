@@ -87,3 +87,7 @@ Bachelor of Technology in Computer Science and Engineering (CGPA: 9.16/10.00)
 * Published paper in IEEE entitled “[Multiple CAs based Framework with ANN for Load Balancing in Cloud Computing Environment](https://ieeexplore.ieee.org/abstract/document/9057813)” in May 2020.
 * Runner Up in coding hackathon competition conducted by IBM 100+ participants (2017)
 * Earned ‘Deep Learning course’ certificate by Andrew G classes with 97%.
+
+## Personal Interest
+
+* Cooking, Singing and Playing Boardgames (Monopoly)
