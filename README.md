@@ -83,7 +83,7 @@ Bachelor of Technology in Computer Science and Engineering (CGPA: 9.16/10.00)
 
 ## Achievements
 
-* Published paper in Springer titled “Multiple CAs based framework to provide Remote Palliative Care for patients undergoing Chemotherapy” in May 2018.   
-* Published paper in IEEE entitled “Multiple CAs based Framework with ANN for Load Balancing in Cloud Computing Environment” in May 2020.
+* Published paper in Springer titled “[Multiple CAs based framework to provide Remote Palliative Care for patients undergoing Chemotherapy](https://www.springerprofessional.de/en/multiple-cas-based-framework-to-provide-remote-palliative-care-f/16947790)” in May 2018.   
+* Published paper in IEEE entitled “[Multiple CAs based Framework with ANN for Load Balancing in Cloud Computing Environment](https://ieeexplore.ieee.org/abstract/document/9057813)” in May 2020.
 * Runner Up in coding hackathon competition conducted by IBM 100+ participants (2017)
 * Earned ‘Deep Learning course’ certificate by Andrew G classes with 97%.
